@@ -1,6 +1,6 @@
 # Technical Tests - Java Projects
 
-This repository contains my solutions to the Skypay technical assessment tests.
+This repository contains my solutions to the  technical assessment tests.
 
 ## Project Overview
 
